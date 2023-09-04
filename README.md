@@ -1,2 +1,2 @@
 # OpenWolof-
-Wolof Database - Provide any content, piece of code, models, audio, textbooks, 
+Wolof Database - Provide any content, piece of code, models, audio, textbooks, ...
